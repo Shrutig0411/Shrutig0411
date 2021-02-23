@@ -21,7 +21,7 @@ She/Her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shruti-gupta-91b49417a/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="https://www.linkedin.com/in/shruti-gupta-91b49417a/" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/shruti-gupta-91b49417a/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="https://www.linkedin.com/in/shruti-gupta-91b49417a/" height="40" width="40" /></a>
 <a href="https://instagram.com/shruti_gupta0411" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="shruti_gupta0411" height="40" width="40" /></a>
 <a href="https://www.behance.net/shrutigupta2" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/behance.png" alt="shrutigupta2" height="40" width="40" /></a>
 </p>
