@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate in **Open Source** :open_hands:
 
-- 📫 How to reach me **shrutiguptashruti01@gmail.com** 
+- 📫 How to reach me **shrutiguptashruti01@gmail.com, 500067564@stu.upes.ac.in** 
 
 - 📄  [My Resume](https://drive.google.com/file/d/1XrUfmWuIuAPszSQdVyEMHcLwGIdIoTvt/view?usp=sharing)
 
